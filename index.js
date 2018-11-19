@@ -22,7 +22,7 @@ class BoardMember {
   }
 
   sayHi() {
-    return 'Hi my name is ${this.name}'
+    return 'Hi my name is ${this.name}';
   }
 
 }
